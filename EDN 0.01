@@ -1,0 +1,16 @@
+Première version disponible; EDN_0.01
+DL : https://drive.google.com/open?id=1NnaDcbx_VFZbHVzwt59hbg9vL1J_yxCN
+
+Tower Defence, 4 vagues pour l'instant qui se repetent en augmentant la difficulté à chaque "prestige" (noté IIXII en vert) 
+
+Comment jouer :
+Deplacer caméra avec zqsd (modifiable dans le menu), zoom avec la souris, echap pour quitter
+
+Le jeu s'éteind brutalement lors de la defaite
+
+Amelioration à venir :
+-Ajout d'un système d'élément
+-Ajout de tours et de vagues
+-corrections de bugs
+
+
